@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Group3 {
+public class Group3 {
+    private int number;
 }
