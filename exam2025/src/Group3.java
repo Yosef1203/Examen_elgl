@@ -1,6 +1,6 @@
 public class Group3 {
     private int number;
-    private String Yosef;
+    private String Yosef12;
 
 
 }
