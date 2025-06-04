@@ -1,5 +1,5 @@
 public class Group3 {
     private int number;
 
-    private String Test123;
+    private String Test12;
 }
